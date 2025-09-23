@@ -56,5 +56,6 @@ jobs:
 I added two secrets to my GitHub repository:
 - DOCKER_USERNAME: My DockerHub username
 - DOCKER_PASSWORD: My DockerHub access token
+
 5. Triggering the Pipeline
 Every time I push code to the `main
